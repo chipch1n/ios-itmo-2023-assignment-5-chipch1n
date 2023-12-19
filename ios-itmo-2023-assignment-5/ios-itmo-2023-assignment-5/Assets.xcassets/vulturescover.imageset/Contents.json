@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "https---images.genius.com-6b5b1a34b7b09417468f3848046f1b71.1000x1000x1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
